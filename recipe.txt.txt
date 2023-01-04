@@ -2,3 +2,4 @@ tea
 ice cream
 cake
 ice cake
+rice
